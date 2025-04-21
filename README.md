@@ -370,3 +370,31 @@ This design aligns with the functionality in `onboard.py` and `cdd.py`, providin
 3. Commit changes (`git commit -m 'Add your feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
+
+
+## Screenshots
+
+
+### Customer Onboarding
+
+#### Step 1
+![01-CustomerOnboarding](screenshots/01-CustomerOnboarding.png)
+
+#### Step 2
+![02-CustomerOnboarding](screenshots/02-CustomerOnboarding.png)
+
+#### Step 3
+![03-CustomerOnboarding](screenshots/03-CustomerOnboarding.png)
+
+---
+
+### CDD Risk Scoring
+
+#### Step 1
+![01-CDDRiskScoring](screenshots/01-CDDRiskScoring.png)
+
+#### Step 2
+![02-CDDRiskScoring](screenshots/02-CDDRiskScoring.png)
+
+#### Step 3
+![03-CDDRiskScoring](screenshots/03-CDDRiskScoring.png)
