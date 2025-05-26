@@ -307,30 +307,6 @@ We welcome contributions from the FinTech and AI communities! 🌟
 - 📚 Update documentation for API changes
 - ⚖️ Ensure compliance with financial regulations
 
-## 📜 **License & Legal**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### **Disclaimer**
-This software is designed for educational and demonstration purposes. For production use in regulated financial environments, please ensure compliance with local banking and financial regulations. Always consult with legal and compliance experts before deployment.
-
-## 🆘 **Support & Resources**
-
-### **📚 Documentation**
-- 📖 [API Reference](docs/api-reference.md)
-- 🚀 [Deployment Guide](docs/deployment.md)
-- ✅ [Compliance Checklist](docs/compliance.md)
-- 🔧 [Troubleshooting](docs/troubleshooting.md)
-
-### **👥 Community**
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/fincrime-kycraft/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/fincrime-kycraft/discussions)
-- 🎮 **Discord**: [FinCrime-KYCraft Community](https://discord.gg/fincrime-kycraft)
-
-### **🏢 Commercial Support**
-For enterprise licensing, custom integrations, and professional support, contact: 📧 [support@fincrime-kycraft.com](mailto:support@fincrime-kycraft.com)
-
----
 
 **🛡️ FinCrime-KYCraft** - *🚀 Intelligent Financial Crime Prevention Through Advanced AI*
 
