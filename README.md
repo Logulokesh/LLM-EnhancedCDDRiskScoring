@@ -1,4 +1,4 @@
-# 🛡️ FinCrime CDD Intelligence - Enterprise LLM-Enhanced Customer Due Diligence Suite
+# 🛡️ FinCrime CDD Intelligence - LLM-Enhanced Customer Due Diligence Suite
 
 <div align="center">
 
